@@ -1,0 +1,1 @@
+First, you need to run train_en/zh-A.py to extract entities, and then run train_en/zh-B.py to perform quadruple matching.
